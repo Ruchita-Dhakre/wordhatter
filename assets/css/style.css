@@ -1,0 +1,17 @@
+nav .nav-link{
+    margin: 0px 10px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.carousel-item img{
+    height: 500px;
+}
+nav{
+    background-color:#fff !important;
+}
+footer{
+    height: 400px;
+    padding: 50px;
+    background-color: #000;
+    color: white;
+}
